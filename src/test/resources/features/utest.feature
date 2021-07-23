@@ -5,3 +5,5 @@ Feature: Utest
   @scenario1
   Scenario: Auto Complete login
     Given than Daniel wants to learn automation at the login in Utest
+      | strUser                   | strPassword   |
+      | usuarioPrueba@outlook.com | /Break/2021** |
